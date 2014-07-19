@@ -5,7 +5,7 @@
 	$long= $_REQUEST['long'];
 	$lat= $_REQUEST['lat'];
 	$email= $_REQUEST['email'];*/
-	$image= $_FILE['file']['name'];
+	$image= $_FILES['file']['name'];
 	$uploadlocation="../uploaded/";
 	$rand_variable = rand(1111, 9999);
 	$new_file=$rand_variable."_".$image;
