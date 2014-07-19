@@ -9,9 +9,9 @@
     //define( "DB_DATABASE",  $_ENV['OPENSHIFT_APP_NAME'] );
 
  $hostname = "localhost";
-  $dbusername = "root";
+  $dbusername = "adminZueeJPa";
   $dbname  = "leprosy";
-  $dbpassword = "";
+  $dbpassword = "CaH57HtycZYY";
 
 
   $mysqli = new mysqli($hostname, $dbusername, $dbpassword, $dbname);
