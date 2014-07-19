@@ -8,7 +8,7 @@
 
     //define( "DB_DATABASE",  $_ENV['OPENSHIFT_APP_NAME'] );
 
- $hostname = "localhost";
+ $hostname = "111.93.137.133";
   $dbusername = "adminZueeJPa";
   $dbname  = "leprosy";
   $dbpassword = "CaH57HtycZYY";
